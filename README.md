@@ -1,4 +1,4 @@
-# java-curso
+# Curso de Java
 
 ---
 Repositório com aulas e exercícios do curso de java do Nélio Alves
@@ -6,7 +6,7 @@ Repositório com aulas e exercícios do curso de java do Nélio Alves
 # Referência
 
 ---
-[Java Completo Programação Orientada a Objetos + Projetos](www.udemy.com/course/java-curso-completo)
+www.udemy.com/course/java-curso-completo
 
 # Aprendizado
 
