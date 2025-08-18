@@ -6,6 +6,8 @@ public class Aula05EstruturaCondicional {
 
     public static void main(String[] args) {
 
+        //estrutura if else
+
         System.out.print("Que horas são?: ");
         Scanner sc = new Scanner(System.in);
 
