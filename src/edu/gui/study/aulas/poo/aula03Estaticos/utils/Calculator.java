@@ -4,6 +4,7 @@ public class Calculator  {
 
     public static final double PI = 3.14;
 
+    //metodos static podem ser utilizado mesmo sem a classe ser instanciada
     public static double circumferencia(Double radius) {
 
         return 2*  PI * radius;

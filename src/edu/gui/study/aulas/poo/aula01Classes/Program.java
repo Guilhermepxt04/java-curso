@@ -20,7 +20,7 @@ public class Program {
         double bY = sc.nextDouble();
         double cY = sc.nextDouble();
 
-
+        // criando variavel do tipo personalizado e instanciandoo objeto
         Triangle x, y;
         x = new Triangle(aX, bX, cX);
         y = new Triangle(aY, bY, cY);

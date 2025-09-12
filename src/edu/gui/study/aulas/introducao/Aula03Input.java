@@ -7,6 +7,7 @@ public class Aula03Input {
 
     public static void main(String[] args) {
 
+        // scanner para ler input do usuario
         Scanner sc = new Scanner(System.in);
         Locale.setDefault(Locale.US);
 

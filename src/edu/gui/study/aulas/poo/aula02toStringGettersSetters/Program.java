@@ -1,6 +1,6 @@
-package edu.gui.study.aulas.poo.aula02toString;
+package edu.gui.study.aulas.poo.aula02toStringGettersSetters;
 
-import edu.gui.study.aulas.poo.aula02toString.entities.Product;
+import edu.gui.study.aulas.poo.aula02toStringGettersSetters.entities.Product;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -24,6 +24,13 @@ public class Program {
         Product product = new Product(name, price, quantity);
 
         System.out.println(product);
+
+        //testando getters e setters
+        product.setName("Tablet");
+
+        System.out.println(product.getName());
+
+
 
 
     }
