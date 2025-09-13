@@ -38,12 +38,14 @@ public class Aula05EstruturaCondicional {
         };
 
         System.out.println("Dia da semana: " + dia);
-        sc.close();
+
 
         // Expressao condicional ternaria
 
         String z = (5 < 10) ? "Maria" : "Alex";
         System.out.println(z);
+
+        sc.close();
 
     }
 }

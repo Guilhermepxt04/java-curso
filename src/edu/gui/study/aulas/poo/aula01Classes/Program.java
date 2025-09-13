@@ -28,7 +28,7 @@ public class Program {
         System.out.printf("Area do triangulo X: %.2f%n", x.Area());
         System.out.printf("Area do triangulo Y: %.2f", y.Area());
 
-
+        sc.close();
     }
 
 }

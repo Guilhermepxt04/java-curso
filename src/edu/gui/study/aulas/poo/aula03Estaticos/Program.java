@@ -19,7 +19,7 @@ public class Program {
         System.out.println(Calculator.volume(radius));
         System.out.println(Calculator.PI);
 
-
+        sc.close();
     }
 
 }

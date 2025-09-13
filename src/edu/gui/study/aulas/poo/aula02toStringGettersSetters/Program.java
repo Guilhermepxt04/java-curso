@@ -30,9 +30,6 @@ public class Program {
 
         System.out.println(product.getName());
 
-
-
-
+        sc.close();
     }
-
 }
