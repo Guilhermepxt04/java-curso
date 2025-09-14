@@ -1,6 +1,6 @@
-package edu.gui.study.aulas.arrays.aula02Arrays;
+package edu.gui.study.aulas.colecoes.aula02Arrays;
 
-import edu.gui.study.aulas.arrays.aula02Arrays.entities.Product;
+import edu.gui.study.aulas.colecoes.aula02Arrays.entities.Product;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package edu.gui.study.aulas.arrays.aula02Arrays.entities;
+package edu.gui.study.aulas.colecoes.aula02Arrays.entities;
 
 public class Product {
 

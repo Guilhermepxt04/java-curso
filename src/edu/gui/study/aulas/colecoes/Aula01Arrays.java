@@ -1,4 +1,4 @@
-package edu.gui.study.aulas.arrays;
+package edu.gui.study.aulas.colecoes;
 
 import java.util.Locale;
 import java.util.Scanner;

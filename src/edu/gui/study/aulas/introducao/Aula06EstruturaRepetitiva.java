@@ -38,6 +38,17 @@ public class Aula06EstruturaRepetitiva {
         System.out.println(soma);
 
 
+        // for-each
+
+        String[] array = new String[] {"Bob", "Maria", "Alex"};
+
+        for (String name : array) {
+
+            System.out.println(name);
+
+        }
+
+
         // do-while
         // bloco do sempre é executado pelo menos 1 vez
 
@@ -48,8 +59,8 @@ public class Aula06EstruturaRepetitiva {
             double celsius = sc.nextDouble();
             double fahrenheit = 9.0 * celsius / 5.0 + 32.0;
             System.out.println("Equivalente em Fahrenheit: " + fahrenheit);
-            System.out.print("Deseja continuar?: ");
-            resp = sc.next().charAt(0);
+            System.out.print("Deseja continuar? (s/n): ");
+            resp = sc.next().toLowerCase().charAt(0);
 
         } while (resp == 's');
 
