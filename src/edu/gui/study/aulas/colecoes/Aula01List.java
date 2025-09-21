@@ -27,10 +27,10 @@ public class Aula01List {
             System.out.println(x);
         }
 
-        List<String> resultado = list.stream().filter(x -> x.charAt(0) == 'B').toList(); // Criando um filtro de lista com predicado
-
         System.out.println(list.indexOf("Marco")); // retorna -1 quando o elemento n ta na lista
         System.out.println(list.indexOf("Bob"));
+
+        List<String> resultado = list.stream().filter(x -> x.charAt(0) == 'B').toList(); // Criando um filtro de lista com predicado
 
         System.out.println(resultado);
 
