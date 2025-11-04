@@ -40,8 +40,8 @@ public class Aula01DateTimeInstanciacao {
         System.out.println("d05 = " + d05);
         System.out.println("d06 = " + d06);
         System.out.println("d07 = " + d07);
-        System.out.println("d08 = " + d08);
-        System.out.println("d09 = " + d09);
+        System.out.println("d08 = " + d08.format(fmt01));
+        System.out.println("d09 = " + d09.format(fmt02));
         System.out.println("d10 = " + d10);
         System.out.println("d11 = " + d11);
 
